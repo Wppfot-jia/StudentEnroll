@@ -35,7 +35,7 @@ body{
     border-bottom:1px solid rgb(170,170,170);
     border-right:1px solid rgb(170,170,170);
     box-shadow: 0 0 20px rgba(57, 70, 78, 0.2);
-    background: -webkit-linear-gradient(rgb(205,196,185),rgb(100,100,100));
+    background: -webkit-linear-gradient(rgba(205,196,185,0.5),rgba(100,100,100,1));
 }
 .top{
 	width: 410px;
@@ -64,6 +64,7 @@ form input{
 	margin: 10px auto;
 }
 #remember{
+	cursor: pointer;
 	transform: translate(0px,5px);
 }
 .bottom input{
