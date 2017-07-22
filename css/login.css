@@ -3,7 +3,7 @@
 	padding: 0;
 }
 body{
-	background: url("../images/loginbg.png");
+	background: url("../images/loginbg.jpg");
 	font-family: "Microsoft Yahei";
 	background-color: #fff;
 }
@@ -30,12 +30,12 @@ body{
 #contain{
     width: 435px;
     height: 360px;
-    margin: -20px auto;
+    margin: -12px 36%;
     border-radius: 0 10px 10px 10px;
     border-bottom:1px solid rgb(170,170,170);
     border-right:1px solid rgb(170,170,170);
     box-shadow: 0 0 20px rgba(57, 70, 78, 0.2);
-    background: -webkit-linear-gradient(rgba(205,196,185,0.5),rgba(100,100,100,1));
+    background: -webkit-linear-gradient(rgba(226,242,234,0.5),rgba(130,177,195,1));
 }
 .top{
 	width: 410px;
